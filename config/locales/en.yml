@@ -34,3 +34,8 @@ en:
   posts:
     index:
       index_newpost: "New Post"
+    new:
+      title: "Title"
+      img_url: "Img url"
+      page_title: "Page Title"
+      author: "Author"
