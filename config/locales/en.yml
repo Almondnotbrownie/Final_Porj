@@ -2,9 +2,9 @@ en:
   layouts:
     application:
       home_link: "Home"
-      about_link: "About"
-      static_blog_link: "Static Blog"
-      dynamic_blog_link: "Dynamic Blog"
+      about_link: "Food"
+      static_blog_link: "History"
+      dynamic_blog_link: "Find Lost Samoyed"
       language_options: "View this page in:"
   static_pages:
     home:
