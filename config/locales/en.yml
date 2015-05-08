@@ -2,7 +2,7 @@ en:
   layouts:
     application:
       home_link: "Home"
-      about_link: "Food"
+      about_link: "Food, Yes"
       static_blog_link: "History"
       dynamic_blog_link: "Lost Samoyed"
       language_options: "View this page in:"
