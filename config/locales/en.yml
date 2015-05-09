@@ -37,9 +37,13 @@ en:
       blog_time: "Oct. 20, 2014 | 12:04 p.m. EDT"
   posts:
     index:
-      index_newpost: "New Post"
+      index_newpost: "Click here to FIND him/her now!"
+      new_post_btn: "New Post"
     new:
-      title: "Title"
-      img_url: "Img url"
-      page_title: "Page Title"
-      author: "Author"
+      title: "His/her name"
+      img_url: "His/her pic (url)"
+      page_title: "Have you seen ...?"
+      author: "Author (email)"
+      body: "Description"
+      create_btn: "Create Post"
+      back_btn: "Back"

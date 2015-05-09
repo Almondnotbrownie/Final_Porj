@@ -132,6 +132,18 @@ td{
 		vertical-align: top;
 }
 
+.img1{
+	width: 100%;
+	border-bottom: solid greenyellow 20px;
+	border-top: solid greenyellow 20px;
+}
+
+.NoPost{
+	font: 100% Helvetica, sans-serif;
+    color: forest green;
+    font-size: 36px;
+}
+
 nav img{
 	border:10px solid black;
 }
@@ -147,4 +159,5 @@ nav img{
     color: forest green;
     font-size: 36px;
 }
+
 
