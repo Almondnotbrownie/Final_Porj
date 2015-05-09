@@ -1,22 +1,38 @@
+{
+   margin: 0;   
+   padding: 0; 
+} 
 nav {
-	background-color: #F8F8F8;
-	border: 1px solid #E7E7E7;
+	border: 0px;
 	color: #777;
 	border-radius: 3px;
 	overflow: hidden;
-	margin: 5px;
-}
-
-nav a {
-	color: #777;
+	margin: 50px;
 }
 
 ul {
 	display: inline-block;
+
 }
 
 li {
 	list-style: none;
 	display: inline-block;
 	margin: 0 5px 0 5px;
+	height: 25px;
+	padding: 0 20px;
 }
+
+li a {
+		text-decoration: none;   
+   color: #ccc;   
+   font: 25px/1 Helvetica, Verdana, sans-serif;   
+   text-transform: uppercase; 
+}
+li a:hover {
+   color: #666; 
+}       
+
+li.active a {
+   font-weight: bold;   
+   color: #333; 
