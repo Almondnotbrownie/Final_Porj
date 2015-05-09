@@ -21,6 +21,7 @@
 		Have you made the right choice? Don't worry, but really be careful with a real dog.
 </p>
 
+<script src="application.js"></script>
 
 <script type="text/javascript">
 	var blueberry=document.querySelector(".blueberry")
@@ -41,14 +42,29 @@ dogfood.addEventListener("click",showdogfoodtext)
 
 function showblueberrytext() {
 	blueberrytext.style.display="block"
+	shanghaitext.style.display="none"
+	chocolatetext.style.display="none"
+	dogfoodtext.style.display="none"
+
 }
 function showshanghaitext() {
 	shanghaitext.style.display="block"
+	blueberrytext.style.display="none"
+	chocolatetext.style.display="none"
+	dogfoodtext.style.display="none"
+	
 }
+
 function showchocolatetext() {
 	chocolatetext.style.display="block"
+	blueberrytext.style.display="none"
+	shanghaitext.style.display="none"
+	dogfoodtext.style.display="none"
 }
 function showdogfoodtext() {
 	dogfoodtext.style.display="block"
+	blueberrytext.style.display="none"
+	shanghaitext.style.display="none"
+	chocolatetext.style.display="none"
 }
 </script>
