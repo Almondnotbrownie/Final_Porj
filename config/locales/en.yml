@@ -12,12 +12,12 @@ en:
       about_link: "Food"
 
 
-      language_options: "View this page in:"
+      language_options: "VIEW THIS PAGE IN"
   static_pages:
     home:
-      home_intro: "The benefits of eating right"
-      home_intro_2: "This is a blog dedicated to healthy eating"
-      home_intro_3: "Click on something on the page"
+      home_intro: "Samoyed Support"
+      home_intro_2: "Our mission is to act as a service organization providing resources, support, networking, and guidance to assist existing Samoyed rescuers and help establish new rescue groups in areas lacking coverage. By fostering relations between rescues and regional breed clubs, breeders, and fanciers, we seeks to provide a unified single point of reference for the Samoyed rescue community. "
+      home_intro_3: "We strive to enable the humane, ethical, and effective rescue of Samoyeds in need through the substantiation & verification of its affiliated rescues' practices thereby ensuring that shelters, humane societies, and the general public are confident in their local Samoyed rescue representatives."
     about:
       about_page_header: "This is the about page"
       about_page_desc: "It tells what the app does, who the people behind it are, why it's awesome, etc@@@."
