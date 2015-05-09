@@ -160,4 +160,15 @@ nav img{
     font-size: 36px;
 }
 
-
+.blueberrytext{
+		display: none;
+	}
+	.shanghaitext{
+		display:none;
+	}
+	.chocolatetext{
+		display:none;
+	}
+	.dogfoodtext{
+		display:none;
+	}
