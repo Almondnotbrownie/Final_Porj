@@ -1,8 +1,19 @@
-<h1><%= t( 'static_pages.about.about_page_header' ) %></h1>
-<p><%= t( 'static_pages.about.about_page_desc' ) %></p>
-<p><%= t( 'static_pages.about.about_page_desc2' ) %></p>
-<ul>
-  <li><%= link_to t( 'static_pages.about.about_contact' ), "#" %></li>
-  <li><%= link_to t( 'static_pages.about.about_gallery' ), "#" %></li>
-  <li><%= link_to t( 'static_pages.about.about_signup' ), "#" %></li>
-</ul>
+<h1 class="title"><%= t( 'static_pages.blog.blog_header1' ) %></h1>
+
+
+<figure>
+  <%= image_tag("123.png", width: "800px") %>
+</figure>
+
+
+<p class="credits"><%= t( 'static_pages.blog.blog_credits' ) %><span class="float-right"><%= t( 'static_pages.blog.blog_time' ) %></span></p>
+<article>
+  <h2><%= t( 'The Beginning' ) %></h2>
+            
+  <p><%= t( 'static_pages.blog.blog_content1' ) %></p>
+
+  <h3><%= t( 'static_pages.blog.blog_header3' ) %></h3>
+
+  <p><%= t( 'static_pages.blog.blog_content4' ) %></p>
+
+</article>
