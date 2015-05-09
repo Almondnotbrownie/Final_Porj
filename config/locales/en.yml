@@ -19,12 +19,9 @@ en:
       home_intro_2: "This is a blog dedicated to healthy eating"
       home_intro_3: "Click on something on the page"
     about:
-      about_page_header: "This is the about page"
-      about_page_desc: "It tells what the app does, who the people behind it are, why it's awesome, etc@@@."
-      about_contact: "Contact Us"
-      about_gallery: "Gallery"
-      about_signup: "Sign Up"
-      about_page_desc2: "Now for some details typical of an 'About Us' page"
+      about_page_header: "Food"
+      about_page_desc: "Which of the following food you can feed your Samoyed?"
+      about_page_desc2: "If you think your Samoyed can eat the food, choose it by clicking on the picture."
     blog:
       blog_content1: "Hipsters, once a group that only listened to underground music and derided the mainstream, have become a force in the food world – urging others to eat healthy, eat local and treat food with respect."
       blog_content2: "While many hipsters love to eat healthy, and pride themselves on their diet of organic foods, kombucha and kale, they also love to indulge in calorie-heavy craft beer and bacon. And when it comes to their health, nutrition experts say these two lifestyles definitely don’t offset."
